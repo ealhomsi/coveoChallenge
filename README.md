@@ -1,4 +1,4 @@
-# coveoChallenge
+# CoveoChallenge
 This is a solution for the coveo challenge found in 
 ## https://blitz.coveo.com/doc/instructions-inscription.pdf
 
